@@ -10,7 +10,7 @@
 ### Estudiante en la Universidad Tecnológica de San Juan del Río 🤓
 ### Un poco sobre mi: 😁
 Me gusta aprender nuevas cosas, siempre con actitud para lograr un objetivo. 🧐
-Mi objetivo ahora es enseñar a las personas lo importante de aprender a programar o aportar al desarrollo en general.
+Mi objetivo ahora es enseñar a las personas lo importante de aprender a programar y aportar al desarrollo en general.
  <hr>
 
 
